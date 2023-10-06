@@ -1,0 +1,25 @@
+.removeDefaultBehavior{
+    margin: 0px;
+    padding: 0px;
+    width:100%;
+
+}
+
+#upperLayer{
+    width:100%;
+    height: 20px;
+    background-color: black;
+}
+
+#navigation{
+    width: 100%;
+    /* height:70px; */
+    /* background-color: aqua; */
+}
+#header{
+    background-image: url("header_image.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+}
